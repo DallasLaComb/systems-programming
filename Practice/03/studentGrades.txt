@@ -1,0 +1,5 @@
+Dallas 01 3.5
+John 02 3.9
+Devin 03 2.5
+Joe 04 2.7
+Jeff 05 2.9
